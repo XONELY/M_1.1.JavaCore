@@ -2,7 +2,7 @@ package main.java.com.sarmat.javacore.chapter03;
 
 public class BoolTest
 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         boolean b;
         b = false;
         System. out .println ( "b равно " + b) ; b = true;

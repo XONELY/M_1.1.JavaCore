@@ -1,3 +1,4 @@
+package main.java.com.sarmat.javacore.chapter02;
 
 public class Example2 {
     public static void main(String[] args){
@@ -8,6 +9,5 @@ public class Example2 {
 
         num = num * 2; //Новое значение переменной num (умножение на 2)
         System.out.print("Значение переменной num:" + num); //Вывод нового значения переменной num, с помощью метода print (после этой строки не следует символ новой строки)
-
     }
 }

@@ -2,7 +2,7 @@ package main.java.com.sarmat.javacore.chapter03;
 
 public class Light
 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int lightspeed;
         long days;
         long seconds;

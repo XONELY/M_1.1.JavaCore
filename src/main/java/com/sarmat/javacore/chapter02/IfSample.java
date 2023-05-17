@@ -1,6 +1,6 @@
 package main.java.com.sarmat.javacore.chapter02;
 public class IfSample {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
 
     int x,y;
