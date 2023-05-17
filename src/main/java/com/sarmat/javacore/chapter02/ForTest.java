@@ -1,3 +1,4 @@
+package main.java.com.sarmat.javacore.chapter02;
 public class ForTest {
     public static void main(String[] args){
 
