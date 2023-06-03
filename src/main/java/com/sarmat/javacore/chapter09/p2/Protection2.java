@@ -1,7 +1,7 @@
-package main.java.com.sarmat.javacore.chapter09.p2;
+package chapter09.p2;
 
 
-public class Protection2 extends main.java.com.sarmat.javacore.chapter09.p1.Protection //боже
+public class Protection2 extends chapter09.p1.Protection //боже
 {
     Protection2(){
         System.out.println("Constructor derived from another packet");

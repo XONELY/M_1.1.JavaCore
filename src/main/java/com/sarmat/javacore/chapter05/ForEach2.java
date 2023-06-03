@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter05;
+package chapter05;
 
 public class ForEach2 {
     public static void main(String[] args) {

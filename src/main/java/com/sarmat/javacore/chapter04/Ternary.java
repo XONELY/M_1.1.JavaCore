@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter04;
+package chapter04;
 
 public class Ternary {
     public static void main(String[] args){

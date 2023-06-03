@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter03;
+package chapter03;
 
 import org.w3c.dom.ls.LSOutput;
 

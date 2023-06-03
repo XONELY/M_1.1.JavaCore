@@ -1,6 +1,6 @@
-package main.java.com.sarmat.javacore.chapter09.p2;
+package chapter09.p2;
 
-import main.java.com.sarmat.javacore.chapter09.p1.Protection;
+import chapter09.p1.Protection;
 
 public class OtherPackage {
     OtherPackage(){

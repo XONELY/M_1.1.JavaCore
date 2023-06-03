@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter09.p2;
+package chapter09.p2;
 
 
 public class Demo {

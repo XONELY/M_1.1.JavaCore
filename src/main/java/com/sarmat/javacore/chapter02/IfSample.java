@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter02;
+package chapter02;
 public class IfSample {
     public static void main(String[] args)
     {

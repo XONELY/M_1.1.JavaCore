@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter09.Bal;
+package chapter09.Bal;
 
 public class Balance {
     String name;

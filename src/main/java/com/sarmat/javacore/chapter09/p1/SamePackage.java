@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter09.p1;
+package chapter09.p1;
 
 public class SamePackage {
 

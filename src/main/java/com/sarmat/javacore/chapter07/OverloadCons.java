@@ -1,4 +1,6 @@
-package main.java.com.sarmat.javacore.chapter07;
+package chapter07;
+
+
 
 public class OverloadCons {
     public static void main(String[] args){

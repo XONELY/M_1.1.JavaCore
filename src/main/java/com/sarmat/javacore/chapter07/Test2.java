@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter07;
+package chapter07;
 
 //Раздел модификаторов доступа
 public class Test2 {

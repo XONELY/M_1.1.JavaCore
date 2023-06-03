@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter03;
+package chapter03;
 
 public class TwoDArray {
     public static void main(String[] args) {

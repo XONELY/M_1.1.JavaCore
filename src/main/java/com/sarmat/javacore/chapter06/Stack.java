@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter06;
+package chapter06;
 
 public class Stack {
 

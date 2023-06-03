@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter08;
+package chapter08;
 
 abstract class AbstractA {
     abstract void callme();

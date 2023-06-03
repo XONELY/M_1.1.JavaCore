@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter07;
+package chapter07;
 
 public class VarArgs {
     static void vaTest(int...v){

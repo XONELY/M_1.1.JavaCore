@@ -1,4 +1,4 @@
-package main.java.com.sarmat.javacore.chapter09;
+package chapter09;
 
 public class Client implements CallBack {
     public void callback(int p){
